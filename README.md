@@ -1,2 +1,13 @@
 # CodeAlpha_Stock_Trading_Platform
-A Java-based application to simulate stock trading, including market data display, buying/selling stocks, and portfolio management.
+
+# Stock Trading Platform
+This project is part of my Java Development internship at CodeAlpha.
+
+## Features
+- Real-time stock price simulation.
+- Buy and Sell operations.
+- Portfolio tracking with balance management.
+
+## How to Run
+1. Compile: `javac StockTradingPlatform.java`
+2. Run: `java StockTradingPlatform`
